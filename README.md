@@ -4,7 +4,11 @@
 
 ![DATS gameplay](media/dats-teaser.gif)
 
-▶️ **[Watch the full gameplay video (1 min 42 s, with sound)](media/dats-gameplay.mp4).** It was recorded directly from the game using Godot's Movie Maker mode and shows several different match-ups, then a full fight ending on the result screen.
+## Videos
+
+▶️ **[Game walkthrough (1 min 16 s)](media/dats-walkthrough.mp4).** This follows the full player flow: studio splash, sign-in screen, hub, choosing a driver, buying parts in the marketplace, building the car in the garage, then two practice fights with different loadouts.
+
+▶️ **[More battles (1 min 42 s, with sound)](media/dats-gameplay.mp4).** This was recorded directly from the game using Godot's Movie Maker mode. It shows several different match-ups, then a full fight ending on the result screen.
 
 ![DATS key art](media/key-art.jpg)
 
